@@ -1,0 +1,47 @@
+
+.form-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    display: block;
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 16px;
+  }
+  .message-container {
+    background-color: #4caf50; 
+    color: white;
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 500px;
+    margin-left: 400px;
+  }  
+
+  .page-title {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px; 
+  }
+  .details {
+    color: #333; 
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+  }
